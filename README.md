@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fajarrw
+- 👋 Hi, I’m Fajar Rizky Widodo
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on anything related to web development
