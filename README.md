@@ -2,15 +2,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About me</h3>
+<p align="left">I'm <b>Fajar Rizky Widodo</b> from Yogyakarta, Indonesia<br><br>- 👨‍🎓 I’m a student<br>- 📚 I'm currently learning AI agent development<br>- ⚡ In my free time I develop and hack softwares</p>
 
 ###
 
-<p align="left">I'm Fajar Rizky Widodo from Yogyakarta, Indonesia<br><br>- 👨‍🎓 I’m a student<br>- 📚 I'm currently learning AI agent development<br>- ⚡ In my free time I develop and hack softwares</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools that I use</h3>
 
 ###
 
@@ -39,6 +35,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -46,6 +44,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats</h3>
 
 ###
 
